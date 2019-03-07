@@ -1,5 +1,6 @@
 package com.springboot.demo.bootdemo;
 
+import com.springboot.demo.bootdemo.utils.Encoder;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -14,6 +15,7 @@ public class BootDemoApplicationTests {
 
     @Test
     public void contextLoads() {
+
     }
 
 }
